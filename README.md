@@ -11,3 +11,5 @@
 Библиотеки: Retrofit, Coroutines, Coil (для загрузки картинок), Koin (для реализации DI)
 
 Фреймворк: Jetpack Compose
+
+Архитектура: Clean Architecture с использованием паттерна MVVM для presentation слоя
