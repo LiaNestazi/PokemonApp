@@ -7,5 +7,7 @@
 Использовался API https://pokeapi.co/
 
 Язык: Kotlin
+
 Библиотеки: Retrofit, Coroutines, Coil (для загрузки картинок), Koin (для реализации DI)
+
 Фреймворк: Jetpack Compose
