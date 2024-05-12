@@ -79,11 +79,9 @@ dependencies {
     implementation(libs.androidx.lifecycle.runtime.compose)
     //LiveData for Compose
     implementation(libs.androidx.runtime.livedata)
-
     //Koin
     implementation("io.insert-koin:koin-core:3.5.0")
     implementation("io.insert-koin:koin-android:3.5.0")
-
     //Coil
     implementation(libs.coil.compose)
 
