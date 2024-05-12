@@ -87,10 +87,6 @@ dependencies {
     //Coil
     implementation(libs.coil.compose)
 
-    //Glide
-    implementation (libs.glide.compose)
-
-
     implementation(project(":data"))
     implementation(project(":domain"))
 }
